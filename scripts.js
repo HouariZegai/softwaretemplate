@@ -1,5 +1,5 @@
 var config = {
-	siteurl: 'https://bilalbentoumi-soft.blogspot.com'
+	siteurl: 'https://' + window.location.host + '/'
 };
 
 function getFirstImage(html) {
